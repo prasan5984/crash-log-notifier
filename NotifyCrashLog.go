@@ -1,5 +1,4 @@
-// Package p contains an HTTP Cloud Function.
-package p
+package b2c
 
 import (
 	"fmt"
